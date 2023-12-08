@@ -4,7 +4,8 @@ Creators: Tristan Dimick, Nick Dinucci
 
 Instructions:
 
---------------------Running a localhost server for testing-------------------
+-----------------------------------------------------------------------------
+                    Running a localhost server for testing
 
 * Pull current repository to a folder
 
