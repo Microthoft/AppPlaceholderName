@@ -8,6 +8,7 @@ Instructions:
 <p align=center>Running a localhost server for testing</p>
 
 <br>
+
 * Pull current repository to a folder
 
 * Run run.bat (may need to be executed as administrator) -DO NOT CLOSE THE COMMAND PROMPT WINDOW-
