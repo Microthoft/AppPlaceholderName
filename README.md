@@ -5,7 +5,7 @@ Creators: Tristan Dimick, Nick Dinucci
 Instructions:
 
 -----------------------------------------------------------------------------
-                    Running a localhost server for testing
+<p align=center>Running a localhost server for testing</p>
 
 * Pull current repository to a folder
 
